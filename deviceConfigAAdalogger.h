@@ -4,7 +4,8 @@
 // ************************************************************
 
 // name for the device
-char deviceName[] = "A Generic Adafruit Sense with Adalogger SD";
+char deviceName[] = "A Adafruit Sense with Adalogger SD";
+// deleted "Generic" from previous line
 char deviceShort[] = "KiteA";
 // code is single-character letter (capital) used as brief identification of device (e.g. in file names)
 char deviceCode[] = "A";

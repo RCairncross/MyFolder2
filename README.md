@@ -1,2 +1,4 @@
 # MyFolder2
- test of Git
+ the line with "test of Git" was deleted
+ 
+ this is an added line
